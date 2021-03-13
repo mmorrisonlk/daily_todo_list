@@ -30,7 +30,7 @@ for (let i = 0; i < workDay.length; i++) {
         document.getElementById(i + "textArea").classList.add('present');
     }
 }
-for (let i = 1; i < workDay.length; i++) {
+for (let i = 0; i < workDay.length; i++) {
     $("#button" + i).click(function(){
         localStorage.setItem("storedItem" + i, document.getElementById(i + "textArea").value)
     });

@@ -30,6 +30,9 @@ for (let i = 0; i < workDay.length; i++) {
         document.getElementById(i + "textArea").classList.add('present');
     }
 }
+/* I couldn't get this to work as part of the bigger for loop so I just ended up doing it as a second loop back through
+the same values. I could have potentially made it work but I think this qualifies as good enough. 
+*/
 for (let i = 0; i < workDay.length; i++) {
     $("#button" + i).click(function(){
         localStorage.setItem("storedItem" + i, document.getElementById(i + "textArea").value)

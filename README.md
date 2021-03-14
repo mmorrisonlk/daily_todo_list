@@ -1,5 +1,7 @@
 # smu_daily_planner
 
+https://mmorrisonlk.github.io/smu_daily_planner/
+
 Organized the file and copied the starter code. My first two areas of focus will be getting any button to appear and save any text. I will also look at trying to get the current day displaying at the top of the website so I can have feel good "hopefully" easy progress.
 
 So for this project I ended up trying something a little more painful at the time but I think pretty neat overall. I could have hard coded each of the times into the html/javascript. But that doesn't really challenge my coding skills and it isn't a scalable solution. 

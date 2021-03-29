@@ -1,6 +1,6 @@
-# smu_daily_planner
+# daily_todo_list
 
-https://mmorrisonlk.github.io/smu_daily_planner/
+https://mmorrisonlk.github.io/daily_todo_list/
 
 Organized the file and copied the starter code. My first two areas of focus will be getting any button to appear and save any text. I will also look at trying to get the current day displaying at the top of the website so I can have feel good "hopefully" easy progress.
 
